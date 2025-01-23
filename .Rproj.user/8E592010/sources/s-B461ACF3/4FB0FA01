@@ -1,0 +1,26 @@
+{
+    "id": "4FB0FA01",
+    "path": "C:/Users/jthicks/OneDrive - Imperial College London/Desktop/example/tests/testthat/test-functions.R",
+    "project_path": "tests/testthat/test-functions.R",
+    "type": "r_source",
+    "hash": "941311212",
+    "contents": "",
+    "dirty": false,
+    "created": 1737644282332.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,56",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1737646128,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1737646128465,
+    "read_only": false,
+    "read_only_alternatives": []
+}
