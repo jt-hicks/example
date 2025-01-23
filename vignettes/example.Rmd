@@ -1,0 +1,29 @@
+---
+title: "example"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{example}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Getting started with the `example` package
+
+```{r setup}
+library(example)
+```
+
+* here is a bulleted list
+* another element
+
+```{r}
+square(10)
+```
+
